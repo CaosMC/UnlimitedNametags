@@ -80,7 +80,7 @@ public final class UnlimitedNameTags extends JavaPlugin {
 
         loadCommands();
         loadHooks();
-        loadStats();
+        //loadStats();
 
         UNTAPI.register(this);
         getLogger().info("API registered");

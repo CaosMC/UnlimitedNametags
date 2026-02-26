@@ -1,8 +1,8 @@
-name: UnlimitedNameTags
+name: Nametags
 version: ${version}
 main: org.alexdev.unlimitednametags.UnlimitedNameTags
 api-version: '1.19'
-author: AlexDev_
+author: Network
 folia-supported: true
 libraries:
 #  - de.exlll:configlib-yaml:${configlibVersion}
